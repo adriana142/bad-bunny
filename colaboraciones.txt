@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<TITLE>Colaboraciones</TITLE>
+</HEAD>
+
+<body>
+<p>bad bunny ha colaborado con bastantes artistas 
+<p>como Dua Lipa, J Balvin, Jhay Cortez, Arcangel, Nicky Jam, Daddy Yankee
+<p>enttre otros logrando gran reconocimiento a nivel mundial
+</pZ>
+
+</body>

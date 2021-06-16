@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE>badbunny</TITLE>
+</HEAD>
+<BODY>
+<p><center><h1><b>INDICE</b></h1></center></p> 
+<hr>
+<BODY>
+<p><A HREF="colaboraciones.html"TARGET="Principal">colaboraciones</p>
+<p><A HREF="discografia.html"TARGET="Principal"<discografia</p>
+<p><A HREF="canciones favoritas.html"TARGET="Principal">canciones favoritas</p>
+
+
+<body bgcolor="#83DEA2">
+</BODY>
+</HTML>

@@ -1,7 +1,6 @@
 # bad-bunny
 <HTML>
 <HEAD>
-<TITLE> Bad bunny </TITLE>
 </HEAD>
 
 <h1>el mejor cantante del mundo</h1>
@@ -50,7 +49,7 @@
 <html/>
 <HTML>
 <HEAD>
-<TITLE>badbunny</TITLE>
+
 </HEAD>
 <BODY>
 <p><center><h1><b>INDICE</b></h1></center></p> 
@@ -78,7 +77,8 @@
 </body>
 <HTML>
 <HEAD>
-<TITLE>discografia</TITLE>
+<TITLE>discografia
+ </TITLE>
 </HEAD>
 
 <p>X100PRE en el año 2018
